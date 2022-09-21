@@ -5,7 +5,7 @@
 - 🌱 I’m currently expanding on my fullstack skills with Node.js GraphQl and python.
 - Passionate about accessibility - Diversity and Inclusion in Tech - Tech 4 Good.
 - 🥅 2022 Goals: Learn more about web3/nft/crypto
-- ⚡ Fun fact: I love musicals and learning guitar.:guitar:
+- ⚡ Fun fact: I love musicals and learning guitar. :guitar:
 
 ### Connect with me:
 

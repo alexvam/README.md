@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/alexvamvakas#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alexvamvakas#gh-dark-mode-only)
 

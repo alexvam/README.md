@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<i class="fa-brands fa-linkedin-in"></i>(https://linkedin.com/in/alexvamvakas)
+<a href="https://linkedin.com/in/alexvamvakas" <i class="fa-brands fa-linkedin-in"></i>>
 
 
 ### Languages and Tools:

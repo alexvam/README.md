@@ -5,7 +5,7 @@
 - 🌱 I’m currently expanding on my fullstack skills with Node.js GraphQl and python.
 - Passionate about accessibility - Diversity and Inclusion in Tech - Tech 4 Good.
 - 🥅 2022 Goals: Learn more about web3/nft/crypto
-- ⚡ Fun fact: I love musicals and learning guitar.:guitar
+- ⚡ Fun fact: I love musicals and learning guitar.:guitar:
 
 ### Connect with me:
 
@@ -27,16 +27,10 @@
 <img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgresSQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="aws" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="CircleCi" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Docker" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="jira" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
-<img align="left" alt="selenium" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
-<img align="left" alt="jest" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original.svg" style="padding-right:10px;" />
-<img align="left" alt="storybook" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="padding-right:10px;" />
+<img align="left" alt="aws" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="CircleCi" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="Docker" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="jira" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="selenium" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="jest" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;padding-top:10px;" />
+<img align="left" alt="storybook" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="padding-right:10px;padding-top:10px;" />

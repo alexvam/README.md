@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/alexvamvakas" <i class="fa-brands fa-linkedin-in"></i>>
 
 
+[![My Skills](https://skills.thijs.gg/icons?i=linkedin)]( https://linkedin.com/in/alexvamvakas)
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />

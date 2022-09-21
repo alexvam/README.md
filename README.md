@@ -1,11 +1,11 @@
 # Hi there, I'm Alex - Welcome to my profile 👋 
 
-## I'm Greek Romanian Software Engineer based in London.
+## I'm Greek 🇬🇷 Romanian 🇷🇴 Software Engineer based in London. 🇬🇧
 
-- 🌱 I’m currently expanding on my fullstack skills with Node.js GraphQl and python.
-- Passionate about accessibility - Diversity and Inclusion in Tech - Tech 4 Good.
+- 🌱 I’m currently expanding on my fullstack skills :technologist: with Node.js GraphQl and python.  :
+- Passionate about accessibility - Diversity and Inclusion in Tech - Tech 4 Good.  :man_in_manual_wheelchair:
 - 🥅 2022 Goals: Learn more about web3/nft/crypto
-- ⚡ Fun fact: I love musicals and learning guitar. :guitar:
+- ⚡ Hobbies: Musicals, Swimming, History and learning guitar. :guitar:  :musical_score: :musical_note: 🏊
 
 ### Connect with me:
 
